@@ -23,7 +23,7 @@ router.get('/kvTest',  async (req, res) => {
 
   const JSONasString = await entry.text();
 
-  res.send(JSONasString);
+  res.json(JSON.parse(JSONasString));
 
 })
 
