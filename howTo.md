@@ -1,3 +1,10 @@
+# Live demo 
+
+```
+https://kv-store-debug.edgecompute.app/kvTest
+```
+https://kv-store-debug.edgecompute.app/kvTest
+
 ## Insert JSON in KV
 
 ```
